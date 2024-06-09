@@ -8,7 +8,7 @@ Simple age and gender detector using Machine learning
 
 1. Clone this repository
 
-2. Run the [gui.py](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/gui.py) file
+2. Run the [gui.py]([https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/gui.py](https://github.com/k-Niraj-kumar/Age_Gender_detection/blob/main/gui.py)) file
 
 3. Upload the Image you want to detect
 
@@ -24,7 +24,7 @@ Simple age and gender detector using Machine learning
 
 3. Extract the dataset to your repository folder.
 
-4. Open the [Model jupyter notebool](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Model.ipynb)
+4. Open the [Model jupyter notebool]((https://github.com/k-Niraj-kumar/Age_Gender_detection/blob/main/untitleed.ipynb))
 
 5. Run this notebook
 
@@ -36,20 +36,4 @@ Simple age and gender detector using Machine learning
 
 9. View results
 
-## Sample Outputs:
 
-### Sample Output 1:
-
-[Sample Output 1](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_1.PNG)
-
-### Sample Output 2:
-
-[Sample Output 21(https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_2.PNG)
-
-### Sample Output 3:
-
-[Sample Output 31(https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_3.PNG)
-
-### Sample Output 4:
-
-[Sample Output 4](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_4.PNG)
